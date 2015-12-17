@@ -2,12 +2,14 @@
   "name": "hx-js",
   "main": "index.html",
   "version": "0.0.1",
-  "description": "js进度加载",
+  "description": "Hubert's Javascript Application",
   "moduleType": [],
   "authors": [
     "Hubert"
   ],
   "keywords": [
+    "hx-loading",
+    "hx-js",
     "hxjs"
   ],
   "license": "MIT",
