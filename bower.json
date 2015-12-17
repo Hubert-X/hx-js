@@ -1,7 +1,7 @@
 {
-  "name": "hx-js",
+  "name": "hx-loading",
   "main": "index.html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hubert's Javascript Application",
   "moduleType": [],
   "authors": [
