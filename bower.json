@@ -1,0 +1,22 @@
+{
+  "name": "hx-js",
+  "main": "index.html",
+  "version": '0.0.1',
+  "description": "js进度加载",
+  "moduleType": [],
+  "authors": [
+    "Hubert"
+  ],
+  keywords: [
+    'hxjs'
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
