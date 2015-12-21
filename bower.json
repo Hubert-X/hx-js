@@ -1,6 +1,6 @@
 {
   "name": "hx-loading",
-  "main": "index.html",
+  "main": "./dist/hx-loading.js",
   "version": "1.0.1",
   "description": "Hubert's Javascript Application",
   "moduleType": [],
@@ -20,5 +20,7 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {},
+  "devDependencies": {}
 }
